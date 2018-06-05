@@ -1,7 +1,7 @@
 {
   "name": "ajv-errors",
   "version": "1.0.0",
-  "description": "Custom error messages in JSON-Schema for Ajv validator",
+  "description": "Custom error messages in JSON-Schema for Ajv validator. Forked from https://github.com/epoberezkin/ajv-errors",
   "main": "index.js",
   "files": [
     "lib"
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/epoberezkin/ajv-errors.git"
+    "url": "git+https://github.com/djdrisco/ajv-errors.git"
   },
   "keywords": [
     "ajv",
